@@ -23,19 +23,19 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="gifs/Games-Cards.gif" title="Video Walkthrough">
+<img src="Games-Cards.gif" title="Video Walkthrough"/>
 Displaying all the games on the game cards from the data file
 
-<img src="gifs/Adding-Statistics.gif" title="Video Walkthrough">
+<img src="Adding-Statistics.gif" title="Video Walkthrough"/>
 Creating the logic for calculating the statistics at the top of the page such as the total number of games and money raised
 
-<img src="gifs/Adding-Statistics.gif" title="Video Walkthrough">
+<img src="Adding-Statistics.gif" title="Video Walkthrough"/>
 Making the filter buttons operational so that the correct game cards display according to which button you press
 
-<img src="gifs/Display-Information-about-the-Company.gif" title="Video Walkthrough">
+<img src="Display-Information-about-the-Company.gif" title="Video Walkthrough"/>
 Sum the statistics of the games on a description on the top, making it dynamic based on how many unfunded games there are
 
-<img src="gifs/Top-Two-Games-&-Customizations.gif" title="Video Walkthrough">
+<img src="Top-Two-Games-&-Customizations.gif" title="Video Walkthrough"/>
 Creating the logic for finding the top two games by the pledged amount and displaying them in the statistics section of the website
 
 <!-- Replace this with whatever GIF tool you used! -->
