@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #fff2e1;
 }
 
 #tentacles {
@@ -27,7 +27,7 @@ body {
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: lightblue;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -70,6 +70,7 @@ body {
 }
 
 button {
+    background-color: lightblue;
     font-family: 'Cabin';
     border: none;
     padding: 1%;
