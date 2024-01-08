@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="Games-Cards.gif" title="Video Walkthrough"/>
+<img src="Game-Cards.gif" title="Video Walkthrough"/>
 Displaying all the games on the game cards from the data file
 
 <img src="Adding-Statistics.gif" title="Video Walkthrough"/>
