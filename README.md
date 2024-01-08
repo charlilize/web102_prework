@@ -29,7 +29,8 @@ Displaying all the games on the game cards from the data file
 <img src="Adding-Statistics.gif" title="Video Walkthrough"/>
 Creating the logic for calculating the statistics at the top of the page such as the total number of games and money raised
 
-<img src="Adding-Statistics.gif" title="Video Walkthrough"/>
+<img src="buttons-working.gif" title="Video Walkthrough"/>
+**UPDATED
 Making the filter buttons operational so that the correct game cards display according to which button you press
 
 <img src="Display-Information-about-the-Company.gif" title="Video Walkthrough"/>
